@@ -1,0 +1,124 @@
+/* numbers 300 */
+@font-face {
+    font-family: yekanbakh-num;
+    font-style: normal;
+    font-weight: 300;
+    src: url('./assets/num/IRANSansWeb_Light.woff');
+    unicode-range: U+30-39;
+}
+
+/* numbers 400 */
+@font-face {
+    font-family: yekanbakh-num;
+    font-style: normal;
+    font-weight: 400;
+    src: url('./assets/num/IRANSansWeb.woff');
+    unicode-range: U+30-39;
+}
+
+/* numbers 700 */
+@font-face {
+    font-family: yekanbakh-num;
+    font-style: normal;
+    font-weight: 700;
+    src: url('./assets/num/IRANSansWeb_Bold.woff');
+    unicode-range: U+30-39;
+}
+
+/* numbers bold */
+@font-face {
+    font-family: yekanbakh-num;
+    font-style: normal;
+    font-weight: bold;
+    src: url('./assets/num/IRANSansWeb_Bold.woff');
+    unicode-range: U+30-39;
+}
+
+
+/* 300 */
+@font-face {
+    font-family: yekanbakh;
+    font-style: normal;
+    font-weight: 300;
+    src: url('./assets/eot/Yekan-Bakh-FA-03-Light.eot');
+    src: url('./assets/eot/Yekan-Bakh-FA-03-Light.eot?#iefix') format('embedded-opentype'),
+    url('./assets/woff/Yekan-Bakh-FA-03-Light.woff') format('woff'),
+    url('./assets/ttf/Yekan-Bakh-FA-03-Light.ttf') format('truetype');
+}
+
+/* 400 */
+@font-face {
+    font-family: yekanbakh;
+    font-style: normal;
+    font-weight: 400;
+    src: url('./assets/eot/Yekan-Bakh-FA-04-Regular.eot');
+    src: url('./assets/eot/Yekan-Bakh-FA-04-Regular.eot?#iefix') format('embedded-opentype'),
+    url('./assets/woff/Yekan-Bakh-FA-04-Regular.woff') format('woff'),
+    url('./assets/ttf/Yekan-Bakh-FA-04-Regular.ttf') format('truetype');
+}
+
+/* normal */
+@font-face {
+    font-family: yekanbakh;
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/eot/Yekan-Bakh-FA-04-Regular.eot');
+    src: url('./assets/eot/Yekan-Bakh-FA-04-Regular.eot?#iefix') format('embedded-opentype'),
+    url('./assets/woff/Yekan-Bakh-FA-04-Regular.woff') format('woff'),
+    url('./assets/ttf/Yekan-Bakh-FA-04-Regular.ttf') format('truetype');
+}
+
+/* 500 */
+@font-face {
+    font-family: yekanbakh;
+    font-style: normal;
+    font-weight: 500;
+    src: url('./assets/eot/Yekan-Bakh-FA-05-Medium.eot');
+    src: url('./assets/eot/Yekan-Bakh-FA-05-Medium.eot?#iefix') format('embedded-opentype'),
+    url('./assets/woff/Yekan-Bakh-FA-05-Medium.woff') format('woff'),
+    url('./assets/ttf/Yekan-Bakh-FA-05-Medium.ttf') format('truetype');
+}
+
+/* 600 */
+@font-face {
+    font-family: yekanbakh;
+    font-style: normal;
+    font-weight: 600;
+    src: url('./assets/eot/Yekan-Bakh-FA-06-Bold.eot');
+    src: url('./assets/eot/Yekan-Bakh-FA-06-Bold.eot?#iefix') format('embedded-opentype'),
+    url('./assets/woff/Yekan-Bakh-FA-06-Bold.woff') format('woff'),
+    url('./assets/ttf/Yekan-Bakh-FA-06-Bold.ttf') format('truetype');
+}
+
+/* bold */
+@font-face {
+    font-family: yekanbakh;
+    font-style: normal;
+    font-weight: bold;
+    src: url('./assets/eot/Yekan-Bakh-FA-06-Bold.eot');
+    src: url('./assets/eot/Yekan-Bakh-FA-06-Bold.eot?#iefix') format('embedded-opentype'),
+    url('./assets/woff/Yekan-Bakh-FA-06-Bold.woff') format('woff'),
+    url('./assets/ttf/Yekan-Bakh-FA-06-Bold.ttf') format('truetype');
+}
+
+/* 700 */
+@font-face {
+    font-family: yekanbakh;
+    font-style: normal;
+    font-weight: 700;
+    src: url('./assets/eot/Yekan-Bakh-FA-07-Heavy.eot');
+    src: url('./assets/eot/Yekan-Bakh-FA-07-Heavy.eot?#iefix') format('embedded-opentype'),
+    url('./assets/woff/Yekan-Bakh-FA-07-Heavy.woff') format('woff'),
+    url('./assets/ttf/Yekan-Bakh-FA-07-Heavy.ttf') format('truetype');
+}
+
+/* 800 */
+@font-face {
+    font-family: yekanbakh;
+    font-style: normal;
+    font-weight: 800;
+    src: url('./assets/eot/Yekan-Bakh-FA-08-Fat.eot');
+    src: url('./assets/eot/Yekan-Bakh-FA-08-Fat.eot?#iefix') format('embedded-opentype'),
+    url('./assets/woff/Yekan-Bakh-FA-08-Fat.woff') format('woff'),
+    url('./assets/ttf/Yekan-Bakh-FA-08-Fat.ttf') format('truetype');
+}
